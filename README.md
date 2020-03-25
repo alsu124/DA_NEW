@@ -5,4 +5,4 @@
 (Начать с 12 темы, потом с 6 до  11(8 апреля))
 
 
-Ссылка на список успеваемости https://drive.google.com/file/d/11VeSqDKC5A8YGVxMwOZhU7P4e7hC1ntj/view?usp=sharing
+Ссылка на список успеваемости https://docs.google.com/spreadsheets/d/11VeSqDKC5A8YGVxMwOZhU7P4e7hC1ntj/edit#gid=805413978
